@@ -34,7 +34,6 @@ export class CustomerService {
     return query(sql, [firebaseId]);
   }
 
-  // test commit
 }
 
 export default CustomerService;
